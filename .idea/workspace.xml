@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_TEST_SOURCES" value="false" />
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e6191194-e3fe-46ec-888c-341c77c2aaf7" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Q3pvKT9ijSU5bJVGuBVyxySyzo" />
+  <component name="PropertiesComponent">
+    <property name="findjar.last.used.dir" value="E:/" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/testFiles" />
+    <property name="last_opened_file_path" value="E:/" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Indium Software\IdeaProjects\mavencontentGrail" />
+      <recent name="C:\Users\Indium Software\IdeaProjects\mavencontentGrail\src\test" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Indium Software\IdeaProjects\mavencontentGrail" />
+      <recent name="C:\Users\Indium Software\IdeaProjects\mavencontentGrail\src\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="TestNG.questionCreations.singleTypeQuestions">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="ContentGrail" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="ContentGrail" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="&lt;default&gt;" type="TestNG" nameIsGenerated="true">
+      <module name="mavencontentGrail" />
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="contentGrail.authorPublication" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mavencontentGrail" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testFiles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testFiles" />
+      <option name="MAIN_CLASS_NAME" value="testFiles.contentGrail" />
+      <option name="METHOD_NAME" value="authorPublication" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="contentGrail.instructions" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mavencontentGrail" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testFiles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testFiles" />
+      <option name="MAIN_CLASS_NAME" value="testFiles.contentGrail" />
+      <option name="METHOD_NAME" value="instructions" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="contentGrail.publicationCreation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mavencontentGrail" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testFiles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testFiles" />
+      <option name="MAIN_CLASS_NAME" value="testFiles.contentGrail" />
+      <option name="METHOD_NAME" value="publicationCreation" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="questionCreations.singleTypeQuestions" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mavencontentGrail" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testFiles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testFiles" />
+      <option name="MAIN_CLASS_NAME" value="testFiles.questionCreations" />
+      <option name="METHOD_NAME" value="singleTypeQuestions" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test.randomNames" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="mavencontentGrail" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testFiles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testFiles" />
+      <option name="MAIN_CLASS_NAME" value="testFiles.test" />
+      <option name="METHOD_NAME" value="randomNames" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.&lt;default&gt;" />
+      <item itemvalue="TestNG.test.randomNames" />
+      <item itemvalue="TestNG.contentGrail.instructions" />
+      <item itemvalue="TestNG.contentGrail.publicationCreation" />
+      <item itemvalue="TestNG.contentGrail.authorPublication" />
+      <item itemvalue="TestNG.questionCreations.singleTypeQuestions" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.questionCreations.singleTypeQuestions" />
+        <item itemvalue="TestNG.contentGrail.authorPublication" />
+        <item itemvalue="TestNG.contentGrail.publicationCreation" />
+        <item itemvalue="TestNG.test.randomNames" />
+        <item itemvalue="TestNG.contentGrail.instructions" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e6191194-e3fe-46ec-888c-341c77c2aaf7" name="Default Changelist" comment="" />
+      <created>1567009363538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1567009363538</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/testFiles/testFiles/questionCreations.java</url>
+          <line>340</line>
+          <properties class="testFiles.questionCreations">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/testFiles/testFiles/questionCreations.java</url>
+          <line>558</line>
+          <properties class="testFiles.questionCreations">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/testFiles/testFiles/test.java</url>
+          <line>29</line>
+          <properties class="testFiles.test" method="randomNames">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/testFiles/testFiles/contentGrail.java</url>
+          <line>175</line>
+          <properties class="testFiles.contentGrail" method="instructions">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/mavencontentGrail$C__Users_Indium_Software_IdeaProjects_mavencontentGrail_TestNG_xml.ic" NAME="$PROJECT_DIR$/TestNG.xml Coverage Results" MODIFIED="1575540012963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
